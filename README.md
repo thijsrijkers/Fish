@@ -2,9 +2,11 @@
  <h1 align="center"> Fish</h1>
 <br>
 <p align="center">A free to use media player</p>
+
 ## Building
 To build Visual you need:
 - A clone/release of Fish
+
 <h2> Installation</h2>
   <ul>
     <li>Comming soon</li>
