@@ -6,7 +6,6 @@
 To build Visual you need:
 - A clone/release of Fish
 <h2> Installation</h2>
-  <h3> Visual</h3>
   <ul>
     <li>Comming soon</li>
   </ul>
