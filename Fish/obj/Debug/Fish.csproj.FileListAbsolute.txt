@@ -1,0 +1,15 @@
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.csprojAssemblyReference.cache
+D:\!!!!!!Fish\Fish\obj\Debug\MainWindow.g.cs
+D:\!!!!!!Fish\Fish\obj\Debug\App.g.cs
+D:\!!!!!!Fish\Fish\obj\Debug\Fish_MarkupCompile.cache
+D:\!!!!!!Fish\Fish\obj\Debug\Fish_MarkupCompile.lref
+D:\!!!!!!Fish\Fish\bin\Debug\Fish.exe.config
+D:\!!!!!!Fish\Fish\bin\Debug\Fish.exe
+D:\!!!!!!Fish\Fish\bin\Debug\Fish.pdb
+D:\!!!!!!Fish\Fish\obj\Debug\MainWindow.baml
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.g.resources
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.Properties.Resources.resources
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.csproj.GenerateResource.cache
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.csproj.CoreCompileInputs.cache
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.exe
+D:\!!!!!!Fish\Fish\obj\Debug\Fish.pdb
